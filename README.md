@@ -17,11 +17,10 @@ Here are some of the projects I've worked on:
 1. Sales Performance Analysis
   - Tools: Excel, SQL, Power BI
   - Analyzed sales data to uncover top-selling products, regional trends, and monthly performance.
-View Project
 2. Customer Segmentation
   - Tools: SQL, Power BI
   - Segmented customers based on behavior to optimize marketing strategies.
-View Project
+View Project: 
 ---
 ## How to Reach Me
 - 📧 Email: [omololuiyanuoluwa@gmail.com]
