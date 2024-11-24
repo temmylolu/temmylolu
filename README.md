@@ -1,5 +1,6 @@
 ## About Me
-👋 Hi, I’m @temmyloluI'm a data enthusiast passionate about uncovering insights hidden in data. I have recently started my journey as a data analyst, and I am eager to apply my skills to solve real-world problems. My goal is to help businesses make data-driven decisions through effective analysis and visualization.
+👋 Hi, I’m @temmylolu
+I'm a data enthusiast passionate about uncovering insights hidden in data. I have recently started my journey as a data analyst, and I am eager to apply my skills to solve real-world problems. My goal is to help businesses make data-driven decisions through effective analysis and visualization.
 
 - 🌱 Currently Learning: Advanced SQL, and Power BI
 - 📈 Interested In: Data Analysis, Business Intelligence, and Research Analytics
@@ -20,7 +21,7 @@ Here are some of the projects I've worked on:
 2. Customer Segmentation
   - Tools: SQL, Power BI
   - Segmented customers based on behavior to optimize marketing strategies.
-View Project: 
+  - View Project: https://github.com/temmylolu/LITA_PROJECT.git
 ---
 ## How to Reach Me
 - 📧 Email: [omololuiyanuoluwa@gmail.com]
